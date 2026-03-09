@@ -82,7 +82,7 @@ Thexiaoyu.underworld/
 ```
 
 ## 许可证
-本项目采用[MIT许可证](LICENSE)（如有，可替换为实际许可证）
+本项目采用[MIT许可证](LICENSE)
 
 ## 作者
 - 主开发者：Thexiaoyu、Jinkra
